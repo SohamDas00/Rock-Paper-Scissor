@@ -1,0 +1,50 @@
+.main{
+    border: 1px white solid;
+    width: 480px;
+    height: 550px;
+    margin-left: 500px;
+    margin-top: 80px;
+    padding-left: 70px;
+}
+.main2{
+    margin-left: 100px;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.image{
+    height: 50px
+}
+.css-button{
+    background-color: black;
+    border: 2px solid white;
+    margin-right: 10px;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+}
+.js-result{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.js-score{
+    margin-top: 50px;
+    font-size: 20px;
+}
+.Reset{
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 40px;
+    margin-top: 20px;
+}
